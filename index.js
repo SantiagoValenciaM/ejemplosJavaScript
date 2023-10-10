@@ -1,5 +1,6 @@
 let i = 2;
 
+//Ejemplo con Switch
 console.log("Ejemplo con Switch");
 
 switch(i) {
@@ -19,6 +20,7 @@ switch(i) {
     console.log("i es mayor a tres.");
 }
 
+// Ejemplo con If
 console.log("Ejemplo con If");
 
 if (i == 0) {
